@@ -1,6 +1,7 @@
-# circle_progress
+# circle_progress indicator
 
-A new Flutter project.
+A new Flutter project.including one screenshot
+
 
 ## Getting Started
 
